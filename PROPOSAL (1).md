@@ -143,11 +143,4 @@ agroflame-residue-mapper/
 
 ---
 
-## 6. Submission Instructions
 
-1. This file is saved as `PROPOSAL.md` in the root of the GitHub repository.
-2. Instructor `prasunkgupta@gmail.com` added as collaborator via **Settings → Collaborators → Add people → "prasunkgupta"**.
-
----
-
-*Group: EmberGrid | Submitted: March 16, 2026*
