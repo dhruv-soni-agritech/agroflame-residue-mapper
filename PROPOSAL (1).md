@@ -1,4 +1,4 @@
-# Project Proposal — MSc (AA) & PGD (SDS) Python Project Work 2026
+# Project Proposal — MSc (AA) Project Work 2026
 
 **Group Name:** EmberGrid  
 **Members:** Member 1, Member 2, Member 3, Member 4, Member 5, Member 6  
