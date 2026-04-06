@@ -1,6 +1,6 @@
 Crop Residue Burning & Bioenergy Dashboard
 Punjab & Haryana | 44 Districts | 2015--2023 VIIRS Fire Data
-![Streamlit](https://s9fczme59zkhxbeiend3ye.streamlit.app/)
+[![Streamlit](https://s9fczme59zkhxbeiend3ye.streamlit.app/)](https://crop-residue.streamlit.app/)
 ---
 🔗 Live Dashboard
 👉 Launch Dashboard
