@@ -2,7 +2,7 @@
 
 District-level decision-support platform for Punjab and Haryana, India, that identifies where crop residue burning is most urgent and where Compressed Biogas (CBG) plants would be most profitable — turning satellite fire data into a policy-ready investment map.
 
-**Live Dashboard:** https://crop-residue.streamlit.app/
+**Live Dashboard:** (https://crop-residue.streamlit.app/)
 
 ## Overview
 
