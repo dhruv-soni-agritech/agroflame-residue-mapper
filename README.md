@@ -129,10 +129,6 @@ Cluster stability was tested with **200 rounds of random 80% subsampling** (37 o
 
 [![Bootstrap cluster stability by district, 200 rounds](https://github.com/dhruv-soni-agritech/agroflame-residue-mapper/raw/main/assets/bootstrap_stability_barchart.png)](https://github.com/dhruv-soni-agritech/agroflame-residue-mapper/blob/main/assets/bootstrap_stability_barchart.png)
 
-[![Bootstrap stability distribution by cluster](https://github.com/dhruv-soni-agritech/agroflame-residue-mapper/raw/main/assets/bootstrap_stability_by_cluster.png)](https://github.com/dhruv-soni-agritech/agroflame-residue-mapper/blob/main/assets/bootstrap_stability_by_cluster.png)
-
-[![Silhouette score versus bootstrap stability by district](https://github.com/dhruv-soni-agritech/agroflame-residue-mapper/raw/main/assets/stability_vs_silhouette.png)](https://github.com/dhruv-soni-agritech/agroflame-residue-mapper/blob/main/assets/stability_vs_silhouette.png)
-
 ## Data Reliability and Confidence Index
 
 Punjab and Haryana are scored using an identical methodology but reported with **different confidence tiers**, reflecting real differences in data depth.
